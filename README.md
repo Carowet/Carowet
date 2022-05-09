@@ -1,4 +1,4 @@
-Hi, I'm Caro, a Full-Stack Developer 👩🏼‍💻
+Hi, I'm Caro, Full-Stack Developer 👩🏼‍💻
 
 I embarked on my coding journey in 2017 when I had to learn HTML and CSS under 48 hours for a student association project. In 2019, I applied to Ecole 42, a leading coding school in Paris, France, and was eligible to take the 1-month coding exam in June 2020.
 
