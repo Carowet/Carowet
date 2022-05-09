@@ -7,4 +7,5 @@ Unfortunately, said exam was cancelled due to the Covid-19 pandemic, which promp
 As a program manager, I have met and supported tens of entrepreneurs and software developers, further strengthening my interest in coding.
 
 **Languages - Frameworks - Tools**
+
 HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Heroku and Ruby on Rails.
