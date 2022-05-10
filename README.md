@@ -4,7 +4,7 @@ I embarked on my coding journey in 2017 when I had to learn HTML and CSS under 4
 
 Unfortunately, said exam was cancelled due to the Covid-19 pandemic, which prompted me to look for an alternative once I graduated from my MSc in Entrepreneurship and Business Development in 2021 🎓. Ultimately, I was selected to attend Le Wagon in Berlin, where I had just moved to work in a startup incubator 🚀
 
-As a program manager, I have met and supported tens of entrepreneurs and software developers, further strengthening my interest in coding.
+As a program manager in the incubator, I have met and supported tens of entrepreneurs and software developers, further strengthening my interest in coding.
 
 
 
