@@ -11,4 +11,5 @@ As a program manager in the incubator, I have met and supported tens of entrepre
 **Languages - Frameworks - Tools**
 
 HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Heroku and Ruby on Rails.
+
 Currently learning React and Node.js
